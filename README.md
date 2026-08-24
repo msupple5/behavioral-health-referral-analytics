@@ -2,7 +2,7 @@
 
 ## Project Premise
 
-**Goal:** Design a fictional vertical SaaS workflow that helps a behavioral-health provider track referrals, contact prospective clients, schedule appointments, and measure access to services.
+**Goal:** Design a fictional vertical SaaS workflow that helps a behavioral health provider track referrals, contact prospective clients, schedule appointments, and measure access to services.
 
 This project demonstrates how SQL, Power BI, and Salesforce can support referral management and operational decision-making for a behavioral-health provider.
 
